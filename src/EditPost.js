@@ -1,7 +1,7 @@
 import React from 'react'
 import { useEffect} from 'react';
 import {useParams, Link, useNavigate} from 'react-router-dom';
-import DataContext from './context/DataContext';
+//import DataContext from './context/DataContext';
 import {format} from 'date-fns';
 //import api from './api/posts';
 import { useStoreState, useStoreActions } from 'easy-peasy';

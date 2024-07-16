@@ -1,7 +1,7 @@
 import React from 'react'
 import {useParams, Link, useNavigate} from 'react-router-dom';
 //import {useContext} from 'react';
-import DataContext from './context/DataContext';
+//import DataContext from './context/DataContext';
 //import api from './api/posts';
 import { useStoreState, useStoreActions } from 'easy-peasy';
 

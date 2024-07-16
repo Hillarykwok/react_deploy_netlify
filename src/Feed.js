@@ -1,5 +1,5 @@
 import React from 'react'
-import PostPage from './PostPage'
+//import PostPage from './PostPage'
 import Post from './Post';
 
 const Feed = ({posts}) => {
